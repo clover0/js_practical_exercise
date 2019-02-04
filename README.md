@@ -1,0 +1,3 @@
+# JavaScript Practical Exercise
+実務でJavaScriptを書いているときによく直面する問題に対しの
+個人的な解決策のまとめ
